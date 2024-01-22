@@ -16,7 +16,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="w-full h-screen bg-white">{children}</body>
+      <body>
+        <div className="bg-white w-[100%] h-screen flex items-center justify-center">
+          <div className="w-[30%] h-screen bg-white border border-gray-100">
+            {children}
+          </div>
+        </div>
+      </body>
     </html>
   );
 }

@@ -1,0 +1,72 @@
+[
+    {
+        "id": 0,
+        "question": "If you could have any fictional character as your best friend, who would it be?",
+        "answers": [
+            "Harry Potter","Iron Man","Patrick Star"
+        ]
+    },
+    {
+        "id": 1,
+        "question": "What’s your go-to dance move when you’re alone and the music is on?",
+        "answers": [
+            "The Robot","The Moonwalk","The Floss"
+        ]
+    },
+    {
+        "id": 2,
+        "question": "What’s the weirdest food combination you secretly enjoy?",
+        "answers": [
+            "Peanut butter and pickles","Macaroni and cheese with ketchup","Pizza with pineapple"
+        ]
+    },
+    {
+        "id": 3,
+        "question": "What’s your favorite dad joke or pun that always makes you laugh?",
+        "answers": [
+            "Why don’t scientists trust atoms? Because they make up everything","What do you call fake spaghetti? An impasta","Why did the scarecrow win an award? Because he was outstanding in his field."
+        ]
+    },
+    {
+        "id": 4,
+        "question": "If you were a cartoon character, what would your catchphrase be?",
+        "answers": [
+            "To infinity and beyond!","Hakuna Matata—it means no worries!","It’s clobberin’ time!"
+        ]
+    },
+    {
+        "id": 5,
+        "question": "You’re about to enter a karaoke contest: Which song do you choose to sing confidently?",
+        "answers": [
+            "Bohemian Rhapsody by Queen","Shake It Off by Taylor Swift","Stasiun Balapan by Didi Kempot"
+        ]
+    },
+    {
+        "id": 6,
+        "question": "If you had to work but didn’t need the money, what job would you choose?",
+        "answers": [
+            "School Teacher","Ambulance Driver","Street Musician"
+        ]
+    },
+    {
+        "id": 7,
+        "question": "If you had a magic button on your desk, what would it do?",
+        "answers": [
+            "Go back to teenager","Bring some foods","Do my job desks 😊"
+        ]
+    },
+    {
+        "id": 8,
+        "question": "How do your drink your coffee ?",
+        "answers": [
+            "Espresso","Manual Brew","Cappucino"
+        ]
+    },
+    {
+        "id": 9,
+        "question": "How was yor day?",
+        "answers": [
+            "Terrible","Good","Just a same day with different date"
+        ]
+    }
+]
