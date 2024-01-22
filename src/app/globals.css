@@ -17,17 +17,20 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
 }
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
+  }
+}
+
+@layer components {
+  .button-dark {
+    @apply text-white bg-gray-800 hover:bg-gray-900 focus:outline-none focus:ring-0 font-medium rounded-lg text-sm px-5 py-2.5;
+  }
+
+  .button-icon {
+    @apply flex items-center justify-center;
   }
 }
