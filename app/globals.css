@@ -33,4 +33,8 @@ body {
   .button-icon {
     @apply flex items-center justify-center;
   }
+
+  .disabled-button {
+    @apply bg-gray-700 cursor-not-allowed hover:bg-gray-700;
+  }
 }
